@@ -1,0 +1,920 @@
+[
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "fileName": "mumbai_accidents.csv",
+    "totalRecords": 2600,
+    "fatalities": 771,
+    "totalCasualties": 3648,
+    "center": [
+      19.076,
+      72.8777
+    ],
+    "bounds": [
+      [
+        18.9,
+        72.8
+      ],
+      [
+        19.28,
+        72.98
+      ]
+    ],
+    "highRiskCorridors": [
+      "Western Express Highway (Andheri Flyover)",
+      "Eastern Express Highway (Ghatkopar Stretch)",
+      "Sion-Panvel Expressway Mankhurd"
+    ]
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "fileName": "pune_accidents.csv",
+    "totalRecords": 2300,
+    "fatalities": 709,
+    "totalCasualties": 3238,
+    "center": [
+      18.5204,
+      73.8567
+    ],
+    "bounds": [
+      [
+        18.44,
+        73.75
+      ],
+      [
+        18.66,
+        73.97
+      ]
+    ],
+    "highRiskCorridors": [
+      "Pune-Bangalore Highway (Katraj Tunnel Stretch)",
+      "Mumbai-Pune Expressway Dehu Road Bypass",
+      "Pune-Solapur Highway Hadapsar"
+    ]
+  },
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "fileName": "bangalore_accidents.csv",
+    "totalRecords": 2600,
+    "fatalities": 779,
+    "totalCasualties": 3581,
+    "center": [
+      12.9716,
+      77.5946
+    ],
+    "bounds": [
+      [
+        12.85,
+        77.5
+      ],
+      [
+        13.1,
+        77.72
+      ]
+    ],
+    "highRiskCorridors": [
+      "Outer Ring Road (Marathahalli-Bellandur)",
+      "Hosur Road Elevated Highway (Electronic City)",
+      "Bellary Road Airport Expressway (Hebbal)"
+    ]
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "fileName": "chennai_accidents.csv",
+    "totalRecords": 2300,
+    "fatalities": 664,
+    "totalCasualties": 3150,
+    "center": [
+      13.0827,
+      80.2707
+    ],
+    "bounds": [
+      [
+        12.92,
+        80.14
+      ],
+      [
+        13.18,
+        80.29
+      ]
+    ],
+    "highRiskCorridors": [
+      "OMR IT Corridor (Perungudi-Sholinganallur)",
+      "Grand Southern Trunk (GST) Road Guindy",
+      "Chennai Bypass Porur Toll Plaza"
+    ]
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "fileName": "hyderabad_accidents.csv",
+    "totalRecords": 2300,
+    "fatalities": 705,
+    "totalCasualties": 3194,
+    "center": [
+      17.385,
+      78.4867
+    ],
+    "bounds": [
+      [
+        17.3,
+        78.32
+      ],
+      [
+        17.54,
+        78.58
+      ]
+    ],
+    "highRiskCorridors": [
+      "PVNR Elevated Expressway Pillar 140",
+      "Outer Ring Road (Gachibowli-Shamshabad)",
+      "Hyderabad-Vijayawada Highway LB Nagar"
+    ]
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "fileName": "kolkata_accidents.csv",
+    "totalRecords": 2300,
+    "fatalities": 647,
+    "totalCasualties": 3172,
+    "center": [
+      22.5726,
+      88.3639
+    ],
+    "bounds": [
+      [
+        22.46,
+        88.3
+      ],
+      [
+        22.68,
+        88.45
+      ]
+    ],
+    "highRiskCorridors": [
+      "Eastern Metropolitan (EM) Bypass Chingrighata",
+      "Kona Expressway Vidyasagar Setu Toll",
+      "Belghoria Expressway Baranagar"
+    ]
+  },
+  {
+    "city": "Delhi NCR",
+    "state": "Delhi",
+    "fileName": "delhi_ncr_accidents.csv",
+    "totalRecords": 2600,
+    "fatalities": 779,
+    "totalCasualties": 3650,
+    "center": [
+      28.6139,
+      77.209
+    ],
+    "bounds": [
+      [
+        28.5,
+        77.05
+      ],
+      [
+        28.85,
+        77.35
+      ]
+    ],
+    "highRiskCorridors": [
+      "Outer Ring Road Mukundpur Chowk",
+      "Ring Road Dhaula Kuan Interchange",
+      "GT Karnal Road Singhu Border"
+    ]
+  },
+  {
+    "city": "Chandigarh",
+    "state": "Punjab/Haryana",
+    "fileName": "chandigarh_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 581,
+    "totalCasualties": 2691,
+    "center": [
+      30.7333,
+      76.7794
+    ],
+    "bounds": [
+      [
+        30.68,
+        76.72
+      ],
+      [
+        30.78,
+        76.85
+      ]
+    ],
+    "highRiskCorridors": [
+      "Chandigarh-Zirakpur Highway Tribune Chowk",
+      "Himalayan Expressway Kalka Link",
+      "Chandigarh-Ambala Highway Dera Bassi"
+    ]
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "fileName": "ahmedabad_accidents.csv",
+    "totalRecords": 2300,
+    "fatalities": 659,
+    "totalCasualties": 3265,
+    "center": [
+      23.0225,
+      72.5714
+    ],
+    "bounds": [
+      [
+        22.95,
+        72.48
+      ],
+      [
+        23.12,
+        72.68
+      ]
+    ],
+    "highRiskCorridors": [
+      "Sarkhej-Gandhinagar (SG) Highway Iskcon",
+      "Sardar Patel Ring Road Bopal Circle",
+      "Ahmedabad-Vadodara Expressway Toll Baroda"
+    ]
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "fileName": "jaipur_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 614,
+    "totalCasualties": 2825,
+    "center": [
+      26.9124,
+      75.7873
+    ],
+    "bounds": [
+      [
+        26.82,
+        75.72
+      ],
+      [
+        27,
+        75.88
+      ]
+    ],
+    "highRiskCorridors": [
+      "Jaipur-Delhi Expressway Kukas NH48",
+      "Ajmer Road 200 Feet Bypass 14 No",
+      "Tonk Road Sanganer Flyover"
+    ]
+  },
+  {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "fileName": "lucknow_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 582,
+    "totalCasualties": 2781,
+    "center": [
+      26.8467,
+      80.9462
+    ],
+    "bounds": [
+      [
+        26.78,
+        80.88
+      ],
+      [
+        26.94,
+        81.04
+      ]
+    ],
+    "highRiskCorridors": [
+      "Amar Shaheed Path Elevated Expressway",
+      "Lucknow-Kanpur Highway Sarojini Nagar",
+      "Faizabad Road Polytechnic Flyover"
+    ]
+  },
+  {
+    "city": "Kochi",
+    "state": "Kerala",
+    "fileName": "kochi_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 577,
+    "totalCasualties": 2790,
+    "center": [
+      9.9312,
+      76.2673
+    ],
+    "bounds": [
+      [
+        9.9,
+        76.24
+      ],
+      [
+        10.05,
+        76.36
+      ]
+    ],
+    "highRiskCorridors": [
+      "Edappally Bypass NH66 Toll Gate",
+      "Seaport-Airport Road Kalamassery",
+      "Kundannoor-Thevara Bridge NH966B"
+    ]
+  },
+  {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "fileName": "indore_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 609,
+    "totalCasualties": 2774,
+    "center": [
+      22.7196,
+      75.8577
+    ],
+    "bounds": [
+      [
+        22.66,
+        75.8
+      ],
+      [
+        22.78,
+        75.94
+      ]
+    ],
+    "highRiskCorridors": [
+      "Agra-Bombay (AB) Road Bypass NH52",
+      "Indore-Ujjain Highway Sanwer Road",
+      "Super Corridor MR10 Airport Link"
+    ]
+  },
+  {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "fileName": "visakhapatnam_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 590,
+    "totalCasualties": 2813,
+    "center": [
+      17.6868,
+      83.2185
+    ],
+    "bounds": [
+      [
+        17.65,
+        83.18
+      ],
+      [
+        17.82,
+        83.36
+      ]
+    ],
+    "highRiskCorridors": [
+      "NH16 Kolkata-Chennai Highway Gajuwaka",
+      "Anandapuram-Pendurthi-Anakapalli Highway",
+      "Port Connectivity Road Sheela Nagar"
+    ]
+  },
+  {
+    "city": "Patna",
+    "state": "Bihar",
+    "fileName": "patna_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 585,
+    "totalCasualties": 2732,
+    "center": [
+      25.5941,
+      85.1376
+    ],
+    "bounds": [
+      [
+        25.56,
+        85.06
+      ],
+      [
+        25.65,
+        85.22
+      ]
+    ],
+    "highRiskCorridors": [
+      "NH31 New Bypass Road Meethapur",
+      "Patna-Gaya National Highway Parsa",
+      "Digha-AIIMS Elevated Expressway"
+    ]
+  },
+  {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "fileName": "bhopal_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 608,
+    "totalCasualties": 2701,
+    "center": [
+      23.2599,
+      77.4126
+    ],
+    "bounds": [
+      [
+        23.18,
+        77.36
+      ],
+      [
+        23.32,
+        77.5
+      ]
+    ],
+    "highRiskCorridors": [
+      "Hoshangabad Road NH46 Misrod Stretch",
+      "Bhopal-Indore Highway Bairagarh",
+      "Raisen Road Patel Nagar Bypass"
+    ]
+  },
+  {
+    "city": "Surat",
+    "state": "Gujarat",
+    "fileName": "surat_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 595,
+    "totalCasualties": 2743,
+    "center": [
+      21.1702,
+      72.8311
+    ],
+    "bounds": [
+      [
+        21.12,
+        72.78
+      ],
+      [
+        21.26,
+        72.9
+      ]
+    ],
+    "highRiskCorridors": [
+      "Surat-Kamrej Highway NH48 Toll",
+      "Outer Ring Road Sarthana Jakatnaka",
+      "Surat-Hazira Industrial Expressway"
+    ]
+  },
+  {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "fileName": "coimbatore_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 599,
+    "totalCasualties": 2788,
+    "center": [
+      11.0168,
+      76.9558
+    ],
+    "bounds": [
+      [
+        10.95,
+        76.9
+      ],
+      [
+        11.08,
+        77.04
+      ]
+    ],
+    "highRiskCorridors": [
+      "Avinashi Road Elevated Expressway Peelamedu",
+      "Trichy Road Flyover Singanallur",
+      "L&T Bypass Road NH544 Eachanari"
+    ]
+  },
+  {
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "fileName": "bhubaneswar_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 568,
+    "totalCasualties": 2757,
+    "center": [
+      20.2961,
+      85.8245
+    ],
+    "bounds": [
+      [
+        20.22,
+        85.78
+      ],
+      [
+        20.35,
+        85.88
+      ]
+    ],
+    "highRiskCorridors": [
+      "NH16 Khandagiri-Baramunda Flyover",
+      "Bhubaneswar-Puri Highway Uttara",
+      "Cuttack-Bhubaneswar Highway Rasulgarh"
+    ]
+  },
+  {
+    "city": "Dehradun",
+    "state": "Uttarakhand",
+    "fileName": "dehradun_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 595,
+    "totalCasualties": 2802,
+    "center": [
+      30.3165,
+      78.0322
+    ],
+    "bounds": [
+      [
+        30.26,
+        77.98
+      ],
+      [
+        30.38,
+        78.08
+      ]
+    ],
+    "highRiskCorridors": [
+      "Haridwar Bypass Road ISBT to Rispana",
+      "Dehradun-Mussoorie Highway Kuthalgate",
+      "Shimla Bypass Road Majra"
+    ]
+  },
+  {
+    "city": "Guwahati",
+    "state": "Assam",
+    "fileName": "guwahati_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 625,
+    "totalCasualties": 2765,
+    "center": [
+      26.1445,
+      91.7362
+    ],
+    "bounds": [
+      [
+        26.1,
+        91.68
+      ],
+      [
+        26.2,
+        91.82
+      ]
+    ],
+    "highRiskCorridors": [
+      "NH27 Guwahati Bypass Jalukbari to Khanapara",
+      "GS Road Khanapara Dispur Capital Link",
+      "Airport Road VIP Borjhar NH17"
+    ]
+  },
+  {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "fileName": "ranchi_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 603,
+    "totalCasualties": 2758,
+    "center": [
+      23.3441,
+      85.3096
+    ],
+    "bounds": [
+      [
+        23.3,
+        85.28
+      ],
+      [
+        23.4,
+        85.38
+      ]
+    ],
+    "highRiskCorridors": [
+      "Ranchi Ring Road Tupudana-Kathal More",
+      "Ranchi-Tata Highway Namkum NH43",
+      "Ranchi-Patna Highway Mesra NH20"
+    ]
+  },
+  {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "fileName": "raipur_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 566,
+    "totalCasualties": 2642,
+    "center": [
+      21.2514,
+      81.6296
+    ],
+    "bounds": [
+      [
+        21.2,
+        81.58
+      ],
+      [
+        21.3,
+        81.7
+      ]
+    ],
+    "highRiskCorridors": [
+      "Great Eastern (GE) Road Tatibandh to Telibandha",
+      "Ring Road 1 Sarona to Pachpedi Naka",
+      "Raipur-Bilaspur Highway Bhanpuri NH30"
+    ]
+  },
+  {
+    "city": "Ludhiana",
+    "state": "Punjab",
+    "fileName": "ludhiana_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 555,
+    "totalCasualties": 2793,
+    "center": [
+      30.901,
+      75.8573
+    ],
+    "bounds": [
+      [
+        30.86,
+        75.8
+      ],
+      [
+        30.95,
+        75.92
+      ]
+    ],
+    "highRiskCorridors": [
+      "Grand Trunk (GT) Road Jalandhar Bypass",
+      "Ferozepur Road Elevated Highway Verka",
+      "Chandigarh Road Samrala Chowk Highway"
+    ]
+  },
+  {
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "fileName": "srinagar_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 575,
+    "totalCasualties": 2772,
+    "center": [
+      34.0837,
+      74.7973
+    ],
+    "bounds": [
+      [
+        34.04,
+        74.74
+      ],
+      [
+        34.14,
+        74.88
+      ]
+    ],
+    "highRiskCorridors": [
+      "NH44 Srinagar Bypass Pantha Chowk",
+      "Airport Road Hyderpora Flyover",
+      "Srinagar-Baramulla Highway Parimpora"
+    ]
+  },
+  {
+    "city": "Panaji",
+    "state": "Goa",
+    "fileName": "panaji_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 617,
+    "totalCasualties": 2772,
+    "center": [
+      15.4909,
+      73.8278
+    ],
+    "bounds": [
+      [
+        15.46,
+        73.78
+      ],
+      [
+        15.52,
+        73.86
+      ]
+    ],
+    "highRiskCorridors": [
+      "Atal Setu Cable Bridge NH66 Link",
+      "NH66 Bypass Bambolim GMC Complex",
+      "Panaji-Old Goa Highway Ribandar"
+    ]
+  },
+  {
+    "city": "Gurugram",
+    "state": "Haryana",
+    "fileName": "gurugram_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 555,
+    "totalCasualties": 2711,
+    "center": [
+      28.4595,
+      77.0266
+    ],
+    "bounds": [
+      [
+        28.4,
+        76.98
+      ],
+      [
+        28.52,
+        77.1
+      ]
+    ],
+    "highRiskCorridors": [
+      "Delhi-Gurgaon Expressway NH48 Shankar Chowk",
+      "Sohna Elevated Expressway Badshahpur",
+      "Dwarka Expressway Sector 84 Cloverleaf"
+    ]
+  },
+  {
+    "city": "Noida",
+    "state": "Uttar Pradesh",
+    "fileName": "noida_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 580,
+    "totalCasualties": 2766,
+    "center": [
+      28.5355,
+      77.391
+    ],
+    "bounds": [
+      [
+        28.5,
+        77.3
+      ],
+      [
+        28.62,
+        77.44
+      ]
+    ],
+    "highRiskCorridors": [
+      "Noida-Greater Noida Expressway Mahamaya",
+      "Delhi-Noida Direct (DND) Flyway Toll Plaza",
+      "FNG (Faridabad-Noida-Ghaziabad) Expressway Sector 121"
+    ]
+  },
+  {
+    "city": "Kanpur",
+    "state": "Uttar Pradesh",
+    "fileName": "kanpur_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 587,
+    "totalCasualties": 2766,
+    "center": [
+      26.4499,
+      80.3319
+    ],
+    "bounds": [
+      [
+        26.42,
+        80.28
+      ],
+      [
+        26.52,
+        80.4
+      ]
+    ],
+    "highRiskCorridors": [
+      "GT Road Kalyanpur-IIT Kanpur Highway",
+      "NH19 Kanpur-Prayagraj Bypass Chakeri",
+      "Ganga Barrage Road Bithoor Link"
+    ]
+  },
+  {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "fileName": "varanasi_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 588,
+    "totalCasualties": 2783,
+    "center": [
+      25.3176,
+      82.9739
+    ],
+    "bounds": [
+      [
+        25.28,
+        82.94
+      ],
+      [
+        25.38,
+        83.04
+      ]
+    ],
+    "highRiskCorridors": [
+      "Varanasi Ring Road Phase 1 Harhua",
+      "GT Road Mughalsarai-Varanasi Highway",
+      "Varanasi-Prayagraj Highway Babatpur NH31"
+    ]
+  },
+  {
+    "city": "Agra",
+    "state": "Uttar Pradesh",
+    "fileName": "agra_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 557,
+    "totalCasualties": 2739,
+    "center": [
+      27.1767,
+      78.0081
+    ],
+    "bounds": [
+      [
+        27.14,
+        77.96
+      ],
+      [
+        27.24,
+        78.08
+      ]
+    ],
+    "highRiskCorridors": [
+      "Yamuna Expressway Toll Plaza Kuberpur",
+      "Agra-Lucknow Expressway Entry Fatehabad",
+      "NH19 Delhi-Agra Highway Sikandra"
+    ]
+  },
+  {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "fileName": "amritsar_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 563,
+    "totalCasualties": 2647,
+    "center": [
+      31.634,
+      74.8723
+    ],
+    "bounds": [
+      [
+        31.6,
+        74.84
+      ],
+      [
+        31.68,
+        74.94
+      ]
+    ],
+    "highRiskCorridors": [
+      "Grand Trunk (GT) Road Daburji NH3",
+      "Amritsar-Attari Border Highway Chheharta",
+      "Airport Road Rajasansi NH354"
+    ]
+  },
+  {
+    "city": "Shimla",
+    "state": "Himachal Pradesh",
+    "fileName": "shimla_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 599,
+    "totalCasualties": 2752,
+    "center": [
+      31.1048,
+      77.1734
+    ],
+    "bounds": [
+      [
+        31.08,
+        77.14
+      ],
+      [
+        31.14,
+        77.2
+      ]
+    ],
+    "highRiskCorridors": [
+      "Hindustan-Tibet Road NH5 Dhalli Tunnel",
+      "Shimla-Kalka Highway Taradevi Stretch",
+      "Shimla-Mandi Highway Tutu Crossing"
+    ]
+  },
+  {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "fileName": "madurai_accidents.csv",
+    "totalRecords": 2000,
+    "fatalities": 572,
+    "totalCasualties": 2776,
+    "center": [
+      9.9252,
+      78.1198
+    ],
+    "bounds": [
+      [
+        9.9,
+        78.08
+      ],
+      [
+        9.96,
+        78.16
+      ]
+    ],
+    "highRiskCorridors": [
+      "Madurai Ring Road Kappalur Toll Plaza",
+      "Madurai-Dindigul Highway Samayanallur NH44",
+      "Madurai-Tuticorin Highway Ring Road"
+    ]
+  }
+]
